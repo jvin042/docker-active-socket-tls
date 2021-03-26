@@ -1,6 +1,3 @@
-<h1 align=center>🐬 Docker Active Socket TLS</h1>
-<p align=center>Script that enables TLS for Docker service. Utilisation for Portainer.</p><br>
-
 ```bash
 sudo -s
 export HOST=my.domain
